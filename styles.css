@@ -133,7 +133,7 @@ body * {
     }
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 700px){
     .main-login{
         flex-direction: column;  
     }
@@ -154,6 +154,6 @@ body * {
         width: 50vh;
     }
     card-login{
-        width: 90%;
+        width: 60%;
     }
 }
