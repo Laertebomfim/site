@@ -156,8 +156,9 @@ body * {
     }
 }
 
-@media only screen and (max-width: 700px) and (min-resolution: 700dpi){
+@media only screen and (max-width: 700px){
     .left-login-image{
-        width: 30vw; /* ajuste conforme necessário */
+        width: 80%; /* ajuste conforme necessário */
+        max-width: 300px; /* ou defina um valor máximo */
     }
 }
